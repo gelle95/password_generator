@@ -1,2 +1,2 @@
-# Made a easy password generator using python.
+# Made an easy and friendly password generator using python.
 # password_generator
